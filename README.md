@@ -1,26 +1,22 @@
 [![Toolbox](https://img.shields.io/badge/Tera--Toolbox-latest-blueviolet)](https://github.com/tera-toolbox) ![](https://img.shields.io/github/license/SaltyMonkey/party-deaths-notifier)
 
-# Party Deaths Notifier
+# Party Notificador de muertes
 
-Simple TERA Toolbox module to show beams at dead party members position so you will spot them a lot more easier.
+Módulo TERA Toolbox simple para mostrar haz de luz en la posición de los miembros del grupo muertos para que los detecte mucho más fácilmente.
 
-## Features
+## Características
 
-- Can be enabled/disabled
-- Can clear already placed beams
-- Can show simple beam or diff beams per class based on setting
-- Configurable beams style in settings
-- Was written with perfomance in mind :) 
-- Using latest Tera Toolbox features
+- Se puede habilitar/deshabilitar
+- Puede despejar haz de luz ya colocadas
+- Puede mostrar haz de luz simples o haz de luz diferenciales por clase según la configuración
+- Estilo de haz de luz configurables en la configuración.
+- Fue escrito con el rendimiento en mente :)
+- Uso de las últimas funciones de Tera Toolbox
 
-## Commands
+## Comandos
 
-/8 pdn - enable/disable new beams placements (not affecting placed ones already)
+/8 pdn - habilitar/deshabilitar nuevas ubicaciones de haces (sin afectar a las ya colocadas)
 
-/8 pdn clear - remove all placed beams
+/8 pdn clear - eliminar todas las haz de luz colocadas
 
-/8 pdn class - enable/disable class based beams
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+/8 pdn class - habilitar/deshabilitar haz de luz basadas en clases

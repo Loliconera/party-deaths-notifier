@@ -1,14 +1,20 @@
 {
-	"files": {
-		"lib/deathsNotifier.js": "9ed2825726d2b7c0f13163bbb359b2537c30024c981a92f1aadd7afe791b5f72",
-		"lib/migration.js": "7f7a3583136202ce2b702e5ea113de0c02deaf5619411cdb50c815c4409cf46f",
-		"LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
-		"module.json": "f856f676b4cd2485fc4debfecc74c06392af497bb82571afc7fc1e82d2d2a986",
-		"package.json": "d8caf910cb9f0c683f08376388d6b077d8c78064e7a2a3f21f9a7607d4a5b9b5",
-		"README.md": "7a8a47b0684a316d028168e7781690ef6ea14e31519a5573f2220764e15f254a",
-		"settings/settings.json": {
-			"overwrite": false,
-			"hash": "7cddd0d3575e46820fd11fa08bc91c78df3c897ec2a46696c62b0219dd8b3627"
-		}
-	}
+    "files": {
+        "LICENSE": "90f8c7dacbf501cfda5f9545c85d705e6cecf6b8f21885e4c5e1f5f9d97dc837",
+        "README.md": "11faa8bc9465f905626c53af30a7834d71c621c94b7960f63eb53e0673149efa",
+        "lib/deathsNotifier.js": "3e9d1933d0ea985282914b1504d6c6ade94c2a29187a2c66c349c123a9f47306",
+        "lib/migration.js": "af8c0bfb096b25c0de5e60f8cdebeb982cb44066a8d295d99c82bb6a17ce9ac0",
+        "module.json": "da237da7873a3c3d5a430110ed9ae048b1b5c8c345afe1e5de40a9796eb6acbf",
+        "package.json": "0797b12cc06ea3d770e2e405d9364ed57b730a5e96a788d44c715ee50a981f5b",
+        "settings/settings.json": "c58b5191433399a9298de162642c1a083463f4bf4100674487891c55c83fee10"
+    },
+    "defs": {
+        "C_TRY_LOOT_DROPITEM": 4,
+        "S_DEAD_LOCATION": 2,
+        "S_DESPAWN_DROPITEM": 4,
+        "S_DESPAWN_USER": 3,
+        "S_PARTY_MEMBER_STAT_UPDATE": 3,
+        "S_SPAWN_DROPITEM": [8,9],
+        "S_SPAWN_USER": 15
+    }
 }
